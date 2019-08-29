@@ -4,11 +4,11 @@ Make at least 3 commits and a gitignore if applicable
 
 Rubric-
 
-1 pt- Instance data- Uses generic type for data and type Node for the reference to the other node.
+1 pt- Instance data- Uses generic type for data and type Node for the references to the other nodes (front and back).
 
-1 pt- Empty constructor, 1 input constructor (data only) and 2 input constructor (data and Node)
+1 pt- Empty constructor, 1 input constructor (data only) and 3 input constructor (data, front, back)
 
-1 pt- Accessors and mutators for both pieces of instance data.
+1 pt- Accessors and mutators for all instance data.
 
 1 pt- A valid override of String toString() that returns "Node: <dataValue's toString here>"
 
