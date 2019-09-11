@@ -1,0 +1,49 @@
+public class Node(){
+
+    public Node(T inputData, T front, T back){
+        T data = inputData;
+        Node frontData = front;
+        Node backData = back;
+}
+    public Node(T inputData){
+        T data = inputData;
+        Node frontData = 0;
+        Node backData = 0;
+}
+    public Node(){
+        T data = 0;
+        Node frontData = 0;
+        Node backData = 0;
+}
+
+    public T getFront(){
+
+    }
+    public T getBack(){
+
+    }
+    public T getData(){
+
+    }
+    public T setFront(){
+
+    }
+    public T setBack(){
+
+    }
+    public T setData(){
+
+    }
+
+    public String toString(){
+
+        return "Node: " + 
+    }
+    public boolean equals(Node n){
+        
+    }
+
+
+}
+    public static void main(String []args){
+    }
